@@ -1,12 +1,12 @@
+import java.util.Scanner;
+
 /**
  * 
- * Calculates the area of a triangle.
+ * Calculates the area of a trapezoid.
  *
  * @author Amber Jackson
  * @version 07-14-2015
  */
-
-import java.util.Scanner;
 
 public class AreaOfTrapezoid {
    /**
