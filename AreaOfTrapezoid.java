@@ -1,19 +1,6 @@
 import java.util.Scanner;
 
-/**
- * 
- * Calculates the area of a trapezoid.
- *
- * @author Amber Jackson
- * @version 07-14-2015
- */
-
 public class AreaOfTrapezoid {
-   /**
-    * Prints to std output.
-    *
-    * @param args Command line arguments (not used).
-    */
 
    public static void main(String[] args) {
       Scanner userInput = new Scanner(System.in);
